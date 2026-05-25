@@ -1,0 +1,45 @@
+<html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Candidatos NL</title>
+  <style>
+    body{
+      font-family: Arial;
+      background:#f4f4f4;
+      padding:20px;
+    }
+
+    .card{
+      background:white;
+      padding:20px;
+      margin:15px 0;
+      border-radius:10px;
+    }
+
+    img{
+      width:150px;
+      border-radius:10px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Candidatos a Gobernador de Nuevo León</h1>
+
+<div class="card">
+  <img src="candidato1.jpg">
+  <h2>Nombre del candidato</h2>
+  <p>Partido: XYZ</p>
+  <p>Propuesta: Mejorar transporte público.</p>
+</div>
+
+<div class="card">
+  <img src="candidato2.jpg">
+  <h2>Otro candidato</h2>
+  <p>Partido: ABC</p>
+  <p>Propuesta: Más seguridad.</p>
+</div>
+
+</body>
+</html>
